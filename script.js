@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
 var redirectButton = document.getElementById('button_1'); 
 
 function redirectToGitHub() {
-  window.location.href = 'https://github.com/Ayushaote/Interactive-and-Responsive-Calculator';
+  window.location.href = 'https://github.com/Ayushaote/Interacttive-and-Responsive-Calculator-with-a-Macros-Calculator';
 }
 redirectButton.addEventListener('click', function(event) {
   event.preventDefault();
